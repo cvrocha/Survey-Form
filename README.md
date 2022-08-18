@@ -5,7 +5,7 @@
 **<h3>➡️&nbsp;https://cvrocha.github.io/Survey-Form/ ⬅️&nbsp;</h3>**
 
 #
-![Screenshot_1](https://user-images.githubusercontent.com/62439381/185505380-8510a083-fb68-4083-8a7c-6c58d38f2ce3.png)
+![cvrocha github io_Survey-Form_](https://user-images.githubusercontent.com/62439381/185506043-86ba2fc4-c900-4bc5-9884-93d491cda54b.png)
 
 ## Sobre 📝
 Esta é um projeto da Freecodecamp do curso de desenvovimento web responsivo.
